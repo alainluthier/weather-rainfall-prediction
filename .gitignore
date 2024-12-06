@@ -1,6 +1,8 @@
 # Environments
 .venv
 .env
+.npy
+.joblib
 rainfall.mdl
 test.py
 dir
